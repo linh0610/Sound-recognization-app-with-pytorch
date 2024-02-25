@@ -1,1 +1,1 @@
-# Sound-recognization-app-with-pytorch
+# Lip-reading-app-with-pytorch
